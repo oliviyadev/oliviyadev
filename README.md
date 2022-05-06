@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on uploading my projects to Github.
+- 🔭 I’m currently working on uploading my projects to Github and improving my skills!
 - 🌱 I’m currently learning Javascript, Git, React.
 - 👯 I’m looking to collaborate on beginner friendly open source projects!
 - 🤔 I’m looking for help with Javascript, Backend Technologies.
